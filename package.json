@@ -1,10 +1,12 @@
 {
-  "name": "spring2",
-  "version": "0.1.0",
+  "name": "neon_moon_tarot",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react-dom": "^16.8.3",
+    "react-spring": "8.0.5",
+    "react-with-gesture": "^4.0.5"
   },
   "devDependencies": {
     "react-scripts": "2.1.5"
